@@ -19,7 +19,7 @@ Key features include:
 ---
 
 ## 🛠 Built With Unity  
-HyperMorph 2D leverages Unity’s 2D suite — sprites, tilemaps, optimized physics, and cross-platform export workflows. Unity’s 2D capabilities allow for rich visuals, crisp mechanics and smooth performance across device types. :contentReference[oaicite:2]{index=2}  
+HyperMorph 2D leverages Unity’s 2D suite — sprites, optimized physics, and cross-platform export workflows. Unity’s 2D capabilities allow for rich visuals, crisp mechanics and smooth performance across device types. :contentReference[oaicite:2]{index=2}  
 Being built in Unity means:  
 - 🔧 Fast iteration and flexible level design.  
 - 📱 Native Android builds + WebGL export for browser play.  
