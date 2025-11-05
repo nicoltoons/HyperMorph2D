@@ -37,8 +37,11 @@ Whether you're looking for a quick distraction or a longer challenge, HyperMorph
 ---
 
 ## 📥 Get Started  
-- **Android**: Available now on Google Play – install and play on your mobile phone.  
-- **Web**: Play instantly in your browser – no install required, whether on PC or mobile.  
+- **Android**: Available now on Google Play – install and play on your mobile phone. [HyperMorph 2D on Google Play](https://play.google.com/store/apps/details?id=com.Flamation.HyperMorph2D)
+ 
+- **Web**: Play instantly in your browser – no install required, whether on PC or mobile.
+- [HyperMorph 2D – Play Online](https://flamationstudios.com/apps/hypermorph2D/)
+ 
 
 ---
 
